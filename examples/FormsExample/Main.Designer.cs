@@ -161,7 +161,6 @@
             this.clearLogButton.TabIndex = 16;
             this.clearLogButton.Text = "Clear Log";
             this.clearLogButton.UseVisualStyleBackColor = true;
-            this.clearLogButton.Click += new System.EventHandler(this.clearLog_Click);
             // 
             // checkBoxSupressMouseWheel
             // 

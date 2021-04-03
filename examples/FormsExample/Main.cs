@@ -223,9 +223,6 @@ namespace Demo
             }
         }
 
-        private void clearLog_Click(object sender, EventArgs e)
-        {
-            textBoxLog.Clear();
-        }
+        
     }
 }
